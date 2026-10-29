@@ -1,0 +1,28 @@
+{
+  "id": "child-lead",
+  "name": "Child Lead",
+  "summary": "This lead crew is a child of a manager crew; it reads this on top of its own lead role",
+  "version": 1,
+  "consumers": [
+    "worker"
+  ],
+  "knowledge": [],
+  "takes": [],
+  "kinds": [],
+  "grants": [],
+  "crew": {
+    "tier": "manager",
+    "card": "child",
+    "tags": [
+      "child",
+      "lead",
+      "manager"
+    ],
+    "when": "this lead crew is a child of a manager crew; it reads this on top of its own lead role",
+    "placeholders": [
+      "cli",
+      "crew",
+      "manager"
+    ]
+  }
+}

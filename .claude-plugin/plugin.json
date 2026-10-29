@@ -1,0 +1,5 @@
+{
+  "name": "rasa-role-child-lead",
+  "version": "0.1.0",
+  "description": "The Child Lead role (`child-lead`) as a RasaOS role module. This lead crew is a child of a manager crew; it reads this on top of its own lead role"
+}
